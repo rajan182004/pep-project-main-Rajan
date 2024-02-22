@@ -91,6 +91,11 @@ Form Handling: Handling form submission and updating the state based on the user
 
 Understanding React Concepts: If you’re new to React, understanding concepts like components, props, and state can be challenging. It’s important to have a good understanding of these concepts to successfully implement this project.
 
+# output
+![Screenshot 2024-02-22 192328](https://github.com/rajan182004/pep-project-main-Rajan/assets/104120698/ba217b02-a858-4109-a8ab-c2516db1bcd9)
+
+
+![Screenshot 2024-02-22 192424](https://github.com/rajan182004/pep-project-main-Rajan/assets/104120698/5b9732ff-dd50-4330-bfa5-e4a3e6dfc17a)
 
 
 
